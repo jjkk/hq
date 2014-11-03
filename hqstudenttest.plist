@@ -17,13 +17,13 @@
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>com.hq.employee</string>
+        <string>com.hq.student</string>
         <key>bundle-version</key>
         <string>1.0</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>恒企人</string>
+        <string>恒企学员</string>
       </dict>
     </dict>
   </array>
