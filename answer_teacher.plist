@@ -19,11 +19,11 @@
         <key>bundle-identifier</key>
         <string>com.kjcity.answer.teacher</string>
         <key>bundle-version</key>
-        <string>1.5.7</string>
+        <string>2.0.0</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>会答教师端</string>
+        <string>恒企员工端</string>
       </dict>
     </dict>
   </array>
